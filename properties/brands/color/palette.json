@@ -1,0 +1,25 @@
+{   "colorPalette":{  
+        "ggLight1": {"value": "#f3f3f3"},
+        "ggLight2": {"value": "#dbdbdb"},
+        "ggLight3": {"value": "#c4c4c4"},
+        "ggLight4": {"value": "#acacac"},
+        "ggLight5": {"value": "#949494"},
+        "ggDark1": {"value": "#0e0e0e"},
+        "ggDark2": {"value": "#292929"},
+        "ggDark3": {"value": "#444"},
+        "ggDark4": {"value": "#5f5f5f"},
+        "ggDark5": {"value": "#7a7a7a"},
+        "ggGray": {"value": "#888888"},
+        "ggBlue": {"value": "#00a7cf"},
+        "ggDarkBlue": {"value": "#0085a5"},
+        "ggDarkGold": {"value": "#e5a516"},
+        "ggDarkGreen": {"value": "#3fae2a"},
+        "ggDarkRed": {"value": "#e5512e"},
+        "ggGold": {"value": "#ffb819"},
+        "ggGreen": {"value": "#00c4b4"},
+        "ggOrange": {"value": "#ff6c0c"},
+        "ggPurple": {"value": "#555387"},
+        "ggRed": {"value": "#ff5a34"},
+        "ggMagenta": {"value": "#ca2e55"}
+      }
+}

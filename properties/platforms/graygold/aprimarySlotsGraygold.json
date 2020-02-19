@@ -1,0 +1,107 @@
+{"primaryDarkGold":{
+    "primary": {
+    "Color":{ "value": "$darkGoldColor !default" },
+      "Dark1Color":{"value":"mix(black,$darkGoldColor,5%)!default"},
+      "Dark2Color":{"value":"mix(black,$darkGoldColor,10%)!default"},
+      "Dark3Color":{"value":"mix(black,$darkGoldColor,15%)!default"},
+      "Dark4Color":{"value":"mix(black,$darkGoldColor,30%)!default"},
+      "Dark5Color":{"value":"mix(black,$darkGoldColor,50%)!default"},
+      "Light1Color":{"value":"mix(white,$darkGoldColor,5%)!default"},
+      "Light2Color":{"value":"mix(white,$darkGoldColor,10%)!default"},
+      "Light3Color":{"value":"mix(white,$darkGoldColor,15%)!default"},
+      "Light4Color":{"value":"mix(white,$darkGoldColor,30%)!default"},
+      "Light5Color":{"value":"mix(white,$darkGoldColor,50%)!default"}
+      },
+"secondary": {
+  "Color":{ "value": "$blueColor !default" },
+    "Dark1Color":{"value":"mix(black,$blueColor,5%)!default"},
+    "Dark2Color":{"value":"mix(black,$blueColor,10%)!default"},
+    "Dark3Color":{"value":"mix(black,$blueColor,15%)!default"},
+    "Dark4Color":{"value":"mix(black,$blueColor,30%)!default"},
+    "Dark5Color":{"value":"mix(black,$blueColor,50%)!default"},
+    "Light1Color":{"value":"mix(white,$blueColor,5%)!default"},
+    "Light2Color":{"value":"mix(white,$blueColor,10%)!default"},
+    "Light3Color":{"value":"mix(white,$blueColor,15%)!default"},
+    "Light4Color":{"value":"mix(white,$blueColor,30%)!default"},
+    "Light5Color":{"value":"mix(white,$blueColor,50%)!default"}
+},
+"tertiary" : {  
+  "Color":{ "value": "$magentaColor !default" },
+      "Dark1Color":{"value":"mix(black,$magentaColor,5%)!default"},
+      "Dark2Color":{"value":"mix(black,$magentaColor,10%)!default"},
+      "Dark3Color":{"value":"mix(black,$magentaColor,15%)!default"},
+      "Dark4Color":{"value":"mix(black,$magentaColor,30%)!default"},
+      "Dark5Color":{"value":"mix(black,$magentaColor,50%)!default"},
+      "Light1Color":{"value":"mix(white,$magentaColor,5%)!default"},
+      "Light2Color":{"value":"mix(white,$magentaColor,10%)!default"},
+      "Light3Color":{"value":"mix(white,$magentaColor,15%)!default"},
+      "Light4Color":{"value":"mix(white,$magentaColor,30%)!default"},
+      "Light5Color":{"value":"mix(white,$magentaColor,50%)!default"}
+},
+"quaternary" : {
+  "Color":{ "value": "$orangeColor !default" },
+  "Dark1Color":{"value":"mix(black,$orangeColor,5%)!default"},
+  "Dark2Color":{"value":"mix(black,$orangeColor,10%)!default"},
+  "Dark3Color":{"value":"mix(black,$orangeColor,15%)!default"},
+  "Dark4Color":{"value":"mix(black,$orangeColor,30%)!default"},
+  "Dark5Color":{"value":"mix(black,$orangeColor,50%)!default"},
+  "Light1Color":{"value":"mix(white,$orangeColor,5%)!default"},
+  "Light2Color":{"value":"mix(white,$orangeColor,10%)!default"},
+  "Light3Color":{"value":"mix(white,$orangeColor,15%)!default"},
+  "Light4Color":{"value":"mix(white,$orangeColor,30%)!default"},
+  "Light5Color":{"value":"mix(white,$orangeColor,50%)!default"}
+},
+"success" : {
+  "Color":{ "value": "$greenColor !default" },
+  "Dark1Color":{"value":"mix(black,$greenColor,5%)!default"},
+  "Dark2Color":{"value":"mix(black,$greenColor,10%)!default"},
+  "Dark3Color":{"value":"mix(black,$greenColor,15%)!default"},
+  "Dark4Color":{"value":"mix(black,$greenColor,30%)!default"},
+  "Dark5Color":{"value":"mix(black,$greenColor,50%)!default"},
+  "Light1Color":{"value":"mix(white,$greenColor,5%)!default"},
+  "Light2Color":{"value":"mix(white,$greenColor,10%)!default"},
+  "Light3Color":{"value":"mix(white,$greenColor,15%)!default"},
+  "Light4Color":{"value":"mix(white,$greenColor,30%)!default"},
+  "Light5Color":{"value":"mix(white,$greenColor,50%)!default"}
+},
+"info" : {
+  "Color":{ "value": "$purpleColor !default" },
+ "Dark1Color":{"value":"mix(black,$purpleColor,5%)!default"},
+ "Dark2Color":{"value":"mix(black,$purpleColor,10%)!default"},
+ "Dark3Color":{"value":"mix(black,$purpleColor,15%)!default"},
+ "Dark4Color":{"value":"mix(black,$purpleColor,30%)!default"},
+ "Dark5Color":{"value":"mix(black,$purpleColor,50%)!default"},
+ "Light1Color":{"value":"mix(white,$purpleColor,5%)!default"},
+ "Light2Color":{"value":"mix(white,$purpleColor,10%)!default"},
+ "Light3Color":{"value":"mix(white,$purpleColor,15%)!default"},
+ "Light4Color":{"value":"mix(white,$purpleColor,30%)!default"},
+ "Light5Color":{"value":"mix(white,$purpleColor,50%)!default"}
+},
+"warning": {
+  "Color":{ "value": "$orangeLight4Color !default" },
+  "Dark1Color":{"value":"mix(black,$orangeLight4Color,5%)!default"},
+  "Dark2Color":{"value":"mix(black,$orangeLight4Color,10%)!default"},
+  "Dark3Color":{"value":"mix(black,$orangeLight4Color,15%)!default"},
+  "Dark4Color":{"value":"mix(black,$orangeLight4Color,30%)!default"},
+  "Dark5Color":{"value":"mix(black,$orangeLight4Color,50%)!default"},
+  "Light1Color":{"value":"mix(white,$orangeLight4Color,5%)!default"},
+  "Light2Color":{"value":"mix(white,$orangeLight4Color,10%)!default"},
+  "Light3Color":{"value":"mix(white,$orangeLight4Color,15%)!default"},
+  "Light4Color":{"value":"mix(white,$orangeLight4Color,30%)!default"},
+  "Light5Color":{"value":"mix(white,$orangeLight4Color,50%)!default"}
+},
+"danger": {
+  "Color":{ "value": "$redColor !default" },
+  "Dark1Color":{"value":"mix(black,$redColor,5%)!default"},
+  "Dark2Color":{"value":"mix(black,$redColor,10%)!default"},
+  "Dark3Color":{"value":"mix(black,$redColor,15%)!default"},
+  "Dark4Color":{"value":"mix(black,$redColor,30%)!default"},
+  "Dark5Color":{"value":"mix(black,$redColor,50%)!default"},
+  "Light1Color":{"value":"mix(white,$redColor,5%)!default"},
+  "Light2Color":{"value":"mix(white,$redColor,10%)!default"},
+  "Light3Color":{"value":"mix(white,$redColor,15%)!default"},
+  "Light4Color":{"value":"mix(white,$redColor,30%)!default"},
+  "Light5Color":{"value":"mix(white,$redColor,50%)!default"}
+        }
+      }
+    }

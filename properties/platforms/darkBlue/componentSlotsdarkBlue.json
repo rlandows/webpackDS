@@ -1,0 +1,310 @@
+{
+"componentSlots":{
+    "cardCap":{
+    "backgroundColor":{"value":"$darkBlueColor !default"},
+    "UnderlineColor":{"value":"$darkBlueDark3Color !default"}
+},"ribbon":{
+    "PrimaryColor":{"value":"$darkBlueColor !default"}
+},"search":{
+    "ShownBackgroundDefaultColor":{"value":"$darkBlueColor !default"},
+    "ShownBackgroundHoverColor":{"value":"$darkBlueLight3Color !default"}
+},"spaHeader":{
+    "BackgroundColor":{"value":"$darkBlueColor !default"},
+    "UnderlineColor":{"value":"$darkBlueDark3Color !default"}
+},"balloon":{
+    "Primary":{
+        "BackgroundColor":{"value":"$darkBlueColor !default"},
+        "BorderColor":{"value":"$darkBlueDark3Color !default"}
+    },
+    "Secondary":{
+        "BackgroundColor":{"value":"$secondaryColor !default"},
+        "BorderColor":{"value":"$secondaryDark3Color !default"}
+    },
+    "Tertiary":{
+        "BackgroundColor":{"value":"$tertiaryColor !default"},
+        "BorderColor":{"value":"$tertiaryDark3Color !default"}
+    }
+},"bubble":{
+    "Menu":{
+        "HoverColor":{"value":"$darkBlueColor !default"}
+    }
+},"tree":{
+    "Link":{
+        "Primary":{
+            "ActiveColor":{"value":"$darkBlueColor !default"},
+            "HoverColor":{"value":"$darkBlueLight3Color !default"},
+            "IconColor":{"value":"$darkBlueColor !default"},
+            "IconActiveColor":{"value":"$darkBlueColor !default"}
+        },
+        "Secondary":{
+            "ActiveColor":{"value":"$secondaryColor !default"},
+            "HoverColor":{"value":"$secondaryLight3Color !default"},
+            "IconColor":{"value":"$secondaryColor !default"},
+            "IconActiveColor":{"value":"$secondaryColor !default"}
+        },
+        "Tertiary":{
+            "ActiveColor":{"value":"$tertiaryColor !default"},
+            "HoverColor":{"value":"$tertiaryLight3Color !default"},
+            "IconColor":{"value":"$tertiaryColor !default"},
+            "IconActiveColor":{"value":"$tertiaryColor !default"}
+        },
+        "Quaternary":{
+            "ActiveColor":{"value":"$quaternaryColor !default"},
+            "HoverColor":{"value":"$quaternaryLight3Color !default"},
+            "IconColor":{"value":"$quaternaryColor !default"},
+            "IconActiveColor":{"value":"$quaternaryColor !default"}
+        }
+    }
+}, "button":{
+    "DropdownMenu":{
+        "Primary":{
+            "BackgroundColor":{"value":"$darkBlueColor !default"},
+            "DarkBackground":{
+                "Color":{"value":"$grayDark4Color !default"}
+            }
+        },
+        "Secondary":{
+            "BackgroundColor":{"value":"$secondaryColor !default"},
+            "DarkBackground":{
+                "Color":{"value":"$grayDark4Color !default"}
+            }
+        },
+        "Tertiary":{
+            "BackgroundColor":{"value":"$tertiaryColor !default"},
+            "DarkBackground":{
+                "Color":{"value":"$grayDark4Color !default"}
+            }
+        }
+    }
+},"checklist":{
+    "Item":{
+        "CompletedColor":{"value":"$darkBlueColor !default"},
+        "ActiveColor":{"value":"$darkBlueColor !default"}
+    }
+},"tab":{
+        "Primary":{
+            "Background":{
+                "DefaultColor":{"value":"#fff !default"},
+                "ActiveColor":{"value":"$darkBlueColor !default"},
+                "HoverColor":{"value":"$darkBlueColor !default"}
+            },"Border":{
+                "DefaultColor":{"value":"$grayLight2Color !default"},
+                "ActiveColor":{"value":"$darkBlueLight3Color !default"},
+                "HoverColor":{"value":"$darkBlueLight3Color !default"}
+            },"Text":{
+                "DefaultColor":{"value":"$darkBlueColor !default"},
+                "ActiveColor":{"value":"#fff !default"},
+                "HoverColor":{"value":"#fff !default"}
+            },"Underline":{
+                "DefaultColor":{"value":"$primaryDark3Color !default"},
+                "ActiveColor":{"value":"$primaryDark3Color !default"},
+                "HoverColor":{"value":"$primaryDark3Color !default"}
+            }
+        },
+        "Secondary":{
+            "Background":{
+                "DefaultColor":{"value":"#fff !default"},
+                "ActiveColor":{"value":"$secondaryColor !default"},
+                "HoverColor":{"value":"$secondaryLight3Color !default"}
+            },"Border":{
+                "DefaultColor":{"value":"$grayLight2Color !default"},
+                "ActiveColor":{"value":"$secondaryLight3Color !default"},
+                "HoverColor":{"value":"$secondaryLight3Color !default"}
+            },"Text":{
+                "DefaultColor":{"value":"$secondaryColor !default"},
+                "ActiveColor":{"value":"#fff !default"},
+                "HoverColor":{"value":"#fff !default"}
+            },"Underline":{
+                "DefaultColor":{"value":"$secondaryDark3Color !default"},
+                "ActiveColor":{"value":"$secondaryDark3Color !default"},
+                "HoverColor":{"value":"$secondaryDark3Color !default"}
+            }
+        }
+    },"divider":{
+        "TextColor":{"value":"$darkBlueColor !default"},
+        "ArrowColor":{"value":"$darkBlueColor !default"},
+        "LineColor":{"value":"$darkBlueColor !default"}
+    },"pagination":{
+        "LinkColor":{"value":"$darkBlueColor !default"}
+    },"progressBar":{
+        "Primary":{
+            "Color":{"value":"$darkBlueColor !default"},
+            "UnderlineColor":{"value":"$darkBlueDark3Color !default"}
+        },
+        "Secondary":{
+            "Color":{"value":"$secondaryColor !default"},
+            "UnderlineColor":{"value":"$secondaryDark3Color !default"}
+        }
+    },"number":{
+        "Circle":{
+            "TextColor":{"value":"$darkBlueColor !default"},
+            "BorderColor":{"value":"$darkBlueColor !default"}
+        }
+    },"timeline":{
+        "ProgressCompleted":{
+            "Color":{"value":"$darkBlueColor !default"}
+        },
+        "BackgroundInactive":{
+            "Color":{"value":"$grayLight4Color !default"}
+        },
+        "TextInactive":{
+            "Color":{"value":"$grayLight4Color !default"}
+        },
+        "BackgroundCompleted":{
+            "Color":{"value":"$darkBlueColor !default"}
+        },
+        "BorderCompleted":{
+            "Color":{"value":"$darkBlueColor !default"}
+        },
+        "TextCompleted":{
+            "Color":{"value":"$blueDark3Color !default"}
+        },
+        "BackgroundActive":{
+            "Color":{"value":"$darkBlueColor !default"}
+        },
+        "BorderActive":{
+            "Color":{"value":"$darkBlueColor !default"}
+        },
+        "TextActive":{
+            "Color":{"value":"$darkBlueColor !default"}
+        }
+    },"modal":{
+        "Header":{
+            "Primary":{
+                "BackgroundColor":{"value":"$grayDark3Color !default"},
+                "UnderlineColor":{"value":"$darkBlueColor !default"}
+            },
+            "Secondary":{
+                "BackgroundColor":{"value":"$grayDark3Color !default"},
+                "UnderlineColor":{"value":"$secondaryColor !default"}
+            },
+            "Tertiary":{
+                "BackgroundColor":{"value":"$grayDark3Color !default"},
+                "UnderlineColor":{"value":"$tertiaryColor !default"}
+            },
+            "Quaternary":{
+                "BackgroundColor":{"value":"$grayDark3Color !default"},
+                "UnderlineColor":{"value":"$quaternaryColor !default"}
+            }
+        },
+        "Footer":{
+            "Primary":{
+                "UnderlineColor":{"value":"$grayLight2Color !default"}
+            },
+            "Secondary":{
+                "UnderlineColor":{"value":"$grayLight2Color !default"}
+            },
+            "Tertiary":{
+                "UnderlineColor":{"value":"$grayLight2Color !default"}
+            },
+            "Quaternary":{
+                "UnderlineColor":{"value":"$grayLight2Color !default"}
+            }
+        }
+    },"slabNav":{
+            "BaseColor":{"value":"$darkBlueColor !default"},
+            "Primary":{
+                "BackgroundColor":{"value":"$darkBlueLight3Color !default"},
+                "BackgroundHoverColor":{"value":"$darkBlueLight3Color !default"},
+                "BackgroundActiveColor":{"value":"$darkBlueLight3Color !default"},
+                "UnderlineColor":{"value":"$darkBlueDark3Color !default"}
+            },
+            "Secondary":{
+                "BackgroundColor":{"value":"$secondaryLight3Color !default"},
+                "BackgroundHoverColor":{"value":"$secondaryLight3Color !default"},
+                "BackgroundActiveColor":{"value":"$secondaryLight3Color !default"},
+                "UnderlineColor":{"value":"$secondaryDark3Color !default"}
+            },
+            "Tertiary":{
+                "BackgroundColor":{"value":"$tertiaryLight3Color !default"},
+                "BackgroundHoverColor":{"value":"$tertiaryLight3Color !default"},
+                "BackgroundActiveColor":{"value":"$tertiaryLight3Color !default"},
+                "UnderlineColor":{"value":"$tertiaryDark3Color !default"}
+            },
+            "Quaternary":{
+                "BackgroundColor":{"value":"$quaternaryLight3Color !default"},
+                "BackgroundHoverColor":{"value":"$quaternaryLight3Color !default"},
+                "BackgroundActiveColor":{"value":"$quaternaryLight3Color !default"},
+                "UnderlineColor":{"value":"$quaternaryDark3Color !default"}
+            }
+    },"tableHeader":{
+            "Primary":{
+                "BackgroundDefaultColor":{"value":"$darkBlueColor !default"},
+                "UnderlineDefaultColor":{"value":"$darkBlueDark3Color !default"},
+                "BackgroundHoverColor":{"value":"$darkBlueLight3Color !default"},
+                "UnderlineHoverColor":{"value":"$darkBlueDark3Color !default"},
+                "BackgroundSelectedColor":{"value":"$darkBlueLight3Color !default"},
+                "UnderlineSelectedColor":{"value":"$darkBlueDark3Color !default"}
+            },
+            "Secondary":{
+                "BackgroundDefaultColor":{"value":"$secondaryColor !default"},
+                "UnderlineDefaultColor":{"value":"$secondaryDark3Color !default"},
+                "BackgroundHoverColor":{"value":"$secondaryLight3Color !default"},
+                "UnderlineHoverColor":{"value":"$secondaryDark3Color !default"},
+                "BackgroundSelectedColor":{"value":"$secondaryLight3Color !default"},
+                "UnderlineSelectedColor":{"value":"$secondaryDark3Color !default"}
+            }
+        },"tableRow":{
+            "Primary":{
+                "Color":{"value":"$darkBlueColor !default"}
+            },
+            "Secondary":{
+                "Color":{"value":"$secondaryColor !default"}
+            }
+        },"chooser":{
+            "Primary":{
+                "BackgroundColor":{"value":"$darkBlueColor !default"},
+                "AccentColor":{"value":"$darkBlueDark3Color !default"}
+            },
+            "Secondary":{
+                "BackgroundColor":{"value":"$secondaryColor !default"},
+                "AccentColor":{"value":"$secondaryDark3Color !default"}
+            },
+            "Tertiary":{
+                "BackgroundColor":{"value":"$tertiaryColor !default"},
+                "AccentColor":{"value":"$tertiaryDark3Color !default"}
+            },
+            "Quaternary":{
+                "BackgroundColor":{"value":"$quaternaryColor !default"},
+                "AccentColor":{"value":"$quaternaryDark3Color !default"}
+            }
+        },"radioBlock":{
+            "Primary":{
+                "Color":{"value":"$darkBlueColor !default"}
+            },
+            "Secondary":{
+                "Color":{"value":"$secondaryColor !default"}
+            },
+            "Tertiary":{
+                "Color":{"value":"$tertiaryColor !default"}
+            },
+            "Quaternary":{
+                "Color":{"value":"$quaternaryColor !default"}
+            }
+        },"toolbelt":{
+            "Item":{
+                "Color":{"value":"$darkBlueColor !default"}
+            }
+        },"pageHeader":{
+            "PrimaryBackground":{
+                "Color":{"value":"$darkBlueColor !default"}
+            },
+            "Underline":{
+                "Color":{"value":"$darkBlueDark3Color !default"}
+            },
+            "SecondaryBackground":{
+                "Color":{"value":"$darkBlueColor !default"}
+            }
+        },"persistNav":{
+            "Default":{
+                "IconColor":{"value":"$darkBlueColor !default"},
+                "TextColor":{"value":"$grayDark4Color !default"}
+            },
+            "Active":{
+                "IconColor":{"value":"$darkBlueColor !default"},
+                "TextColor":{"value":"$darkBlueColor !default"},
+                "InsetColor":{"value":"$darkBlueColor !default"}
+            }
+        }
+    }
+}
